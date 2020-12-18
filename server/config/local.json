@@ -1,0 +1,11 @@
+{
+    "PORT":4000,
+    "mongo":{
+        "url": "mongodb://localhost:27017/userdetails",
+        "options":{
+            "useCreateIndex": true,
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        }
+    }
+}
